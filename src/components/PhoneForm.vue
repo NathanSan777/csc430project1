@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-      <h1>For your safety, let's set up two-factor authentication.</h1>
+      <h1>For your safety, we've sent you a code for 2-factor authentication</h1>
       <div class="form-group">
         <h6>Please enter your phone number. We'll send you a code via text.</h6>
         <br>
